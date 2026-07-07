@@ -1,63 +1,52 @@
+# Olá, eu sou o Davi 👋
 
-# Davi Martins — DM Dev
+Desenvolvedor Full Stack (JavaScript) & Gestor de Tráfego Pago
 
-Desenvolvedor Full Stack 
-📍 Canguçu, RS — Brasil  
-📱 WhatsApp: 53999253947 
-🌐 [desenvolvedorsoftware.com](https://desenvolvedorsoftware.com)  
-📸 Instagram: [@davi_mb31](https://instagram.com/davi_mb31)  
+Construo sites, sistemas web e e-commerces do zero — e também cuido da parte de trazer clientes através de tráfego pago. Do código à captação de clientes.
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor Full Stack freelancer com foco em criar soluções web para pequenos e médios negócios. Atuo desde o desenvolvimento de sites institucionais e landing pages até e-commerces completos com integração de pagamento. Também trabalho com gestão de tráfego pago, ajudando empresas a atrair mais clientes online.
-
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Front-end**
-- HTML5, CSS3, JavaScript, TypeScript
-- React, React Native
-
-**Back-end**
-- Node.js, Express
-- REST APIs, JWT
-
-**Banco de Dados**
-- MongoDB, MySQL, PostgreSQL, SQLite
-
-**Marketing & SEO**
-- Gestão de Tráfego Pago (Meta Ads / Google Ads)
-- SEO On-page
-
-**Ferramentas**
-- Git, GitHub
-- VS Code
+- Atuo como Desenvolvedor Full Stack e Gestor de Tráfego Pago, unindo tecnologia e estratégia digital pra gerar resultado real pra empresas.
+- Linguagem principal: JavaScript
+- Também crio e otimizo campanhas no Meta Ads e Google Ads
+- Estou concluindo o módulo de Back-end na DevClub, cursando Análise de Dados e me formei em Engenharia de Prompt e em Gestão de Tráfego Pago (Comunidade Subido, com Pedro Sobral)
+- Araranguá - SC
+- Perfil autodidata, com foco em entregar soluções completas — não só o código, mas o resultado
 
 ---
 
-## 🚀 Projetos
+## Tecnologias & Ferramentas
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Academia Ellite](#) | Site institucional para academia | HTML, CSS, JS |
-| [Studio Hair & Beauty](#) | Landing page para salão de beleza | HTML, CSS, JS |
-| [Patinhas Pet Shop & Vet](#) | Site para pet shop e clínica veterinária | HTML, CSS, JS |
-| [E-commerce de Limpeza](#) | Loja virtual com carrinho via WhatsApp | HTML, CSS, JS |
-| [DevClube Store](#) | E-commerce completo | HTML, CSS, JS |
-| [Simulador de Consórcio](#) | Sistema de simulação financeira | HTML, CSS, JS |
+**Front-end:** HTML5, CSS3, JavaScript, TypeScript, React.js, React Native
+
+**Back-end:** Node.js, Express, APIs REST, JWT
+
+**Banco de Dados:** MongoDB, MySQL, PostgreSQL, SQLite
+
+**Marketing Digital:** Meta Ads, Google Ads
+
+---
+
+## Projetos em destaque
+
+- **E-commerce VMC Vilmar** — Loja virtual completa com carrinho via WhatsApp, filtros por categoria e busca em tempo real
+- **Site Institucional — Pai e Filho** — Site desenvolvido do zero pra prestadora de serviços
+- **Studio Hair & Beauty** — Site institucional para salão de beleza
+- **Academia Ellite** — Site institucional para academia
+- **Patinhas Pet Shop & Vet** — Site institucional para pet shop e clínica veterinária
+- **Simulador de Consórcio** — Ferramenta interativa de simulação
+- **Loja Online (Next.js + Supabase)** — E-commerce full-stack com Next.js 14, TypeScript, Tailwind e Supabase, deploy na Vercel
+
+Confira os repositórios fixados abaixo para ver o código de cada um.
 
 ---
 
-## 📬 Contato
+## Bora conversar?
 
-Tem um projeto em mente? Vamos conversar!
+Tô sempre aberto a projetos de desenvolvimento web, parcerias ou papo sobre tráfego pago.
 
-- 💬 WhatsApp: 53999253947
-- 📧 E-mail: zapomago011@gmail.com
-- 🌐 Site: (https://desenvolvedorsoftware.com)
-
----
+- Site: desenvolvedorsoftware.com
+- LinkedIn: linkedin.com/in/davi-martins-831389292
+- Facebook: facebook.com/profile.php?id=61550532054146
