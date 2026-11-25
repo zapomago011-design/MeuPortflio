@@ -47,6 +47,6 @@ Confira os repositórios fixados abaixo para ver o código de cada um.
 
 Tô sempre aberto a projetos de desenvolvimento web, parcerias ou papo sobre tráfego pago.
 
-- Site: desenvolvedorsoftware.com
+- Site: https://desenvolvedorwebcom.netlify.app/
 - LinkedIn: linkedin.com/in/davi-martins-831389292
 - Facebook: facebook.com/profile.php?id=61550532054146
